@@ -1,0 +1,150 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.header {
+    background-color: white;
+}
+
+
+.logo {
+    margin-left: 10px;
+
+
+}
+
+.bottoni {
+   margin-top: 10px;
+   margin-bottom: 10px;
+   margin-left: 30px;
+   font-weight: 400;
+
+}
+
+.hr {
+    width: 100%;
+    margin: 0%;
+
+}
+
+.bottone1 {
+    display: inline;
+    background-color: lightskyblue;
+    border-radius: 5px 5px;
+    padding: 5px;
+}
+
+.bottone2 {
+
+    display: inline;
+    border: 1px solid black;
+    border-radius: 5px 5px;
+    padding: 4px;
+}
+
+
+.main {
+    padding: 50px;
+    background-color: lightgrey;
+}
+
+.hr{
+    width: 100%;
+    margin-bottom: 25px;
+    color: lightgray;
+   
+}
+
+.titoli{ 
+    margin-left: 25px;
+}
+
+.sezioni-lista {
+    margin-bottom: 25px;
+   
+}
+
+.spazio{
+    margin-bottom: 5px;
+    margin-left: 35px;
+}
+
+.conteiner {
+    padding: 10px;
+    background-color: white;
+    margin-bottom: auto;
+    border-radius: 10px;
+}
+
+.unorder-list {
+    list-style-type: none;
+   
+}
+
+.evidenziati {
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.editorial {
+    background-color: lightskyblue;
+    color: white;
+}
+
+.Q1-goals {
+    background-color: blueviolet;
+    color: white;
+}
+
+.segni-speciali {
+    border-radius: 50%;
+    display: inline-block;
+    width: 15px;
+    height: 15px;
+    text-align: center;
+    font-size: 10px;
+    margin-bottom: 10px;
+    margin-right: 5px;
+
+}
+
+.verdi {
+
+    border: solid 1px green;
+    color: green;
+}
+
+.rossi{
+    border: solid 1px red;
+
+}
+
+.recruiting{
+    background-color: rgb(115, 203, 185);
+    color: white;
+}
+
+.mobile{
+    background-color: orange;
+    color: white;
+}
+
+.website{
+    background-color: rgb(215, 29, 147);
+    color: white;
+
+
+}
+
+.sales{
+    background-color: rgba(84, 197, 46, 0.636);
+    color: white;
+
+
+}
